@@ -1,0 +1,23 @@
+{
+  "name": "NodeGame",
+  "version": "0.1.0",
+  "author": {
+    "name": "Noëlle Anthony",
+    "email": "noelle.d.anthony+nodegame@gmail.com",
+    "url": "https://noelle.codes"
+  },
+  "description": "A framework for making games",
+  "license": "mit",
+  "main": "main.js",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engines": {
+  },
+  "browserslist": [
+  ]
+}
